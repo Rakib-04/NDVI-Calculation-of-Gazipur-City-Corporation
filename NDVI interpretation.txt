@@ -1,0 +1,5 @@
+Essentially, NDVI is an indicator of vegetation health based on how plants reflect certain ranges of the electromagnetic spectrum.
+The electromagnetic spectrum is central to us understanding plant health. It is fundamental to how NDVI works and allows us to determine how healthy, or unhealthy; a plant is based on how it reflects energy and light.
+
+NDVI values for live plants range between 0 to 1, with 1 being the healthiest and 0 being the least healthy.
+*Very low values of NDVI (0.1 and below) correspond to barren areas of rock, sand, or snow. Moderate values represent shrub and grassland (0.2 to 0.3), while high values indicate temperate and tropical rainforests (0.6 to 0.8).
